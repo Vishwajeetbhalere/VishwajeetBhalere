@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/vishwajeetb01" target="blank"><img src="https://img.shields.io/twitter/follow/vishwajeetb01?logo=twitter&style=for-the-badge" alt="vishwajeetb01" /></a> </p>
 
-- 🔭 I’m currently working on **Resume Builder**
+- 🔭 I’m currently working on **Resume/CV Builder**
 
 - 🌱 I’m currently learning **Django**
 
